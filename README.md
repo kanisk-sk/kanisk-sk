@@ -52,33 +52,6 @@ Currently exploring **Python, JavaScript, AI/ML, backend engineering, and system
 
 ---
 
-### 🚀 My Projects
-
-**🍲 FoodLink**
-
-Smart surplus-food redistribution system with IoT telemetry and digital food passport.
-
-[View Repository →](https://github.com/kanisk-sk/FoodLink)
-
----
-
-**📦 Supply-chain**
-
-Supply Chain Tracking & Analytics project with separate backend and frontend components.
-
-[View Repository →](https://github.com/kanisk-sk/Supply-chain)
-
----
-
-**🏥 SehatLink**
-
-Offline Telemedicine & AI Health Assistant for Rural India.
-
-Fork of **pranav7676/SehatLink**.
-
-[View Repository →](https://github.com/kanisk-sk/SehatLink)
-
----
 
 ### 📊 GitHub Stats
 
