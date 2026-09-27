@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" fill="none">
+<rect width="1200" height="150" fill="#0B0E0D" stroke="#30352F"/><path d="M0 3H1200" stroke="#A8C686" stroke-width="3" opacity=".7"/>
+<text x="48" y="38" font-family="monospace" font-size="12" fill="#A8C686">07 / FIND ME</text><text x="48" y="65" font-family="monospace" font-size="13" fill="#E8E4D8">The public profile is the source of truth for current work and contact.</text>
+<path d="M48 90H1152" stroke="#30352F"/><text x="48" y="119" font-family="monospace" font-size="13" fill="#D8D0BC">GITHUB</text><text x="160" y="119" font-family="monospace" font-size="13" fill="#9A9A8F">github.com/kanisk-sk</text><text x="1030" y="119" font-family="monospace" font-size="12" fill="#A8C686">→ PROFILE</text>
+</svg>

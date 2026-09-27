@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" fill="none">
+<rect width="1200" height="230" fill="#0B0E0D" stroke="#30352F"/>
+<path d="M0 3H1200" stroke="#A8C686" stroke-width="3" opacity=".7"/>
+<text x="48" y="42" font-family="monospace" font-size="12" fill="#A8C686">02 / ABOUT ME</text>
+<path d="M48 62H1152" stroke="#30352F"/>
+<text x="48" y="98" font-family="monospace" font-size="15" fill="#E8E4D8">I enjoy turning ideas into useful software, from AI experiments</text>
+<text x="48" y="124" font-family="monospace" font-size="15" fill="#E8E4D8">to full-stack projects that solve practical problems.</text>
+<rect x="48" y="158" width="245" height="42" fill="#0E1110" stroke="#30352F"/><text x="64" y="177" font-family="monospace" font-size="10" fill="#A8C686">STUDYING</text><text x="64" y="191" font-family="monospace" font-size="12" fill="#E8E4D8">SRM RAMAPURAM</text>
+<rect x="312" y="158" width="245" height="42" fill="#0E1110" stroke="#30352F"/><text x="328" y="177" font-family="monospace" font-size="10" fill="#A8C686">EXPLORING</text><text x="328" y="191" font-family="monospace" font-size="12" fill="#E8E4D8">AI + WEB DEV</text>
+<rect x="576" y="158" width="245" height="42" fill="#0E1110" stroke="#30352F"/><text x="592" y="177" font-family="monospace" font-size="10" fill="#A8C686">INTERESTS</text><text x="592" y="191" font-family="monospace" font-size="12" fill="#E8E4D8">SYSTEMS / UI / UX</text>
+<rect x="840" y="158" width="312" height="42" fill="#0E1110" stroke="#30352F"/><text x="856" y="177" font-family="monospace" font-size="10" fill="#A8C686">APPROACH</text><text x="856" y="191" font-family="monospace" font-size="12" fill="#E8E4D8">LEARN BY BUILDING</text>
+</svg>

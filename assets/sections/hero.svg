@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none">
+<rect width="1200" height="260" fill="#0B0E0D" stroke="#30352F"/>
+<path d="M0 3H1200" stroke="#A8C686" stroke-width="3" opacity=".7"/>
+<path d="M48 42H210M48 78H300M48 153H180" stroke="#30352F"/>
+<text x="48" y="67" font-family="monospace" font-size="42" font-weight="700" fill="#E8E4D8">KANISK S K</text>
+<text x="48" y="108" font-family="monospace" font-size="15" fill="#A8C686">B.TECH CSE STUDENT · SRM RAMAPURAM</text>
+<text x="48" y="137" font-family="monospace" font-size="13" fill="#9A9A8F">I build software and hardware systems, from an idea to a circuit board</text>
+<text x="48" y="157" font-family="monospace" font-size="13" fill="#9A9A8F">and a repository that explains how it works.</text>
+<text x="48" y="198" font-family="monospace" font-size="12" fill="#D8D0BC">01 / HERO</text>
+<text x="48" y="225" font-family="monospace" font-size="12" fill="#9A9A8F">SOFTWARE + HARDWARE · CHENNAI, INDIA</text>
+<path d="M790 62H1140M790 198H1140M790 62V198M1140 62V198" stroke="#30352F"/>
+<text x="820" y="110" font-family="monospace" font-size="23" fill="#E8E4D8">SOFTWARE</text>
+<text x="820" y="144" font-family="monospace" font-size="23" fill="#A8C686">HARDWARE</text>
+<path d="M820 164H1080" stroke="#52634B" stroke-width="2"/>
+<text x="820" y="185" font-family="monospace" font-size="11" fill="#9A9A8F">IDEA / DEVICE / REPOSITORY</text>
+</svg>

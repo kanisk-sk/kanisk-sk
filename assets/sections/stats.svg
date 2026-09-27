@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" fill="none">
+<rect width="1200" height="150" fill="#0B0E0D" stroke="#30352F"/><path d="M0 3H1200" stroke="#A8C686" stroke-width="3" opacity=".7"/>
+<text x="48" y="38" font-family="monospace" font-size="12" fill="#A8C686">06 / GITHUB STATS</text>
+<g fill="#0E1110" stroke="#30352F"><rect x="48" y="60" width="255" height="58"/><rect x="319" y="60" width="255" height="58"/><rect x="590" y="60" width="255" height="58"/><rect x="861" y="60" width="291" height="58"/></g>
+<text x="64" y="82" font-family="monospace" font-size="10" fill="#A8C686">PROJECTS SHOWN</text><text x="64" y="103" font-family="monospace" font-size="12" fill="#E8E4D8">03 public repos</text>
+<text x="335" y="82" font-family="monospace" font-size="10" fill="#A8C686">STARS</text><text x="335" y="103" font-family="monospace" font-size="12" fill="#E8E4D8">0 on featured repos</text>
+<text x="606" y="82" font-family="monospace" font-size="10" fill="#A8C686">FORKS</text><text x="606" y="103" font-family="monospace" font-size="12" fill="#E8E4D8">1 featured fork</text>
+<text x="877" y="82" font-family="monospace" font-size="10" fill="#A8C686">REPOSITORY LANGUAGES</text><text x="877" y="103" font-family="monospace" font-size="12" fill="#E8E4D8">Python · TypeScript</text>
+</svg>

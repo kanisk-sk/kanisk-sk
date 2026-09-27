@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none">
+<rect width="1200" height="300" fill="#0B0E0D" stroke="#30352F"/><path d="M0 3H1200" stroke="#A8C686" stroke-width="3" opacity=".7"/>
+<text x="48" y="40" font-family="monospace" font-size="12" fill="#A8C686">03 / WHAT I'M BUILDING</text><text x="48" y="64" font-family="monospace" font-size="11" fill="#9A9A8F">Three public repositories, each with a different kind of problem inside.</text>
+<path d="M48 82H1152" stroke="#30352F"/>
+<text x="48" y="116" font-family="monospace" font-size="18" fill="#E8E4D8">FoodLink</text><text x="48" y="140" font-family="monospace" font-size="12" fill="#9A9A8F">Smart surplus-food redistribution with IoT telemetry and a digital food passport.</text><text x="48" y="164" font-family="monospace" font-size="10" fill="#A8C686">NEXT.JS / REACT / ESP32 / MYSQL</text><text x="900" y="140" font-family="monospace" font-size="11" fill="#D8D0BC">github.com/kanisk-sk/FoodLink</text><path d="M48 180H1152" stroke="#30352F"/>
+<text x="48" y="214" font-family="monospace" font-size="18" fill="#E8E4D8">Supply-chain</text><text x="48" y="238" font-family="monospace" font-size="12" fill="#9A9A8F">Python project with separate backend and frontend directories.</text><text x="900" y="238" font-family="monospace" font-size="11" fill="#D8D0BC">github.com/kanisk-sk/Supply-chain</text><path d="M48 254H1152" stroke="#30352F"/>
+<text x="48" y="282" font-family="monospace" font-size="18" fill="#E8E4D8">SehatLink</text><text x="230" y="282" font-family="monospace" font-size="11" fill="#A8C686">FORK · pranav7676/SehatLink</text><text x="900" y="282" font-family="monospace" font-size="11" fill="#D8D0BC">github.com/kanisk-sk/SehatLink</text>
+</svg>
