@@ -87,18 +87,18 @@ Fork of **pranav7676/SehatLink**.
 
 <div align="center">
 
-<table>
+<table width="90%">
 <tr>
 
 <td align="center" width="33%">
 
 <h1>81</h1>
 
-<b>Total Contributions</b>
+<hr width="80%">
 
-<br/>
+<h3>Total<br>Contributions</h3>
 
-May 6, 2025 - Present
+<p>May 6, 2025 -<br>Present</p>
 
 </td>
 
@@ -106,11 +106,13 @@ May 6, 2025 - Present
 
 <h1>🔥 0</h1>
 
-<b>Current Streak</b>
+<hr width="80%">
 
-<br/>
+<h3>Current Streak</h3>
 
-Sep 26
+<br>
+
+<p>Sep 26</p>
 
 </td>
 
@@ -118,11 +120,13 @@ Sep 26
 
 <h1>6</h1>
 
-<b>Longest Streak</b>
+<hr width="80%">
 
-<br/>
+<h3>Longest Streak</h3>
 
-Sep 16 - Sep 21
+<br>
+
+<p>Sep 16 - Sep 21</p>
 
 </td>
 
