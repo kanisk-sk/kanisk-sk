@@ -45,12 +45,13 @@ Currently learning **AI Engineering** and **Full Stack Development**, targeting 
 <div align="center">
 
 <img
-  src="./profile-3d-contrib/profile-night-view.svg"
+  src="./profile-3d-contrib/profile-night-green.svg"
   width="78%"
   alt="Kanisk's 3D GitHub Activity"
 />
 
 </div>
+
 ---
 
 ### 📊 GitHub Stats
