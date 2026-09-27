@@ -1,78 +1,173 @@
-<!-- Custom-built GitHub profile README for kanisk-sk -->
-<!-- Visual direction: Dark terminal / developer interface aesthetic -->
+<!-- kanisk-sk profile README -->
+<!-- Visual direction: Dark terminal / developer workspace -->
+<!-- Palette: #0B0E0D bg, #E8E4D8 text, #A8C686 accent, #30352F borders -->
 
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="170" viewBox="0 0 600 170" fill="none">
-  <rect width="600" height="170" rx="8" fill="#09090b" stroke="#27272a" stroke-width="1"/>
-  <rect x="0" y="0" width="600" height="3" fill="#c8956c" opacity="0.6"/>
-  <circle cx="22" cy="22" r="5" fill="#c8956c" opacity="0.9"/>
-  <circle cx="40" cy="22" r="5" fill="#71717a" opacity="0.7"/>
-  <circle cx="58" cy="22" r="5" fill="#27272a" stroke="#71717a" stroke-width="0.5"/>
-  <text x="72" y="26" font-family="'SF Mono', monospace" font-size="13" fill="#71717a">~/kanisk-sk</text>
-  <text x="72" y="88" font-family="'SF Mono', monospace" font-size="46" fill="#d4d4d8">KANISK SK</text>
-  <text x="72" y="120" font-family="'SF Mono', monospace" font-size="14" fill="#c8956c">B.Tech CSE Student · SRM Ramapuram</text>
-  <text x="72" y="155" font-family="'SF Mono', monospace" font-size="13" fill="#71717a">$ building software and hardware systems</text>
-</svg>
+<div>
 
-<!-- [01] NOW -->
-<div style="font-family: 'SF Mono', monospace; font-size: 13px; color: #d4d4d8; line-height: 2.2; margin-top: 20px;">
-<span style="color: #c8956c; font-size: 14px; font-weight: 600;">[01]</span> <span style="color: #c8956c; font-size: 14px;">NOW</span>
-<div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #27272a;">
-- <span style="color: #c8956c;">▸</span> Developing a cloud-based AI assistant<br/>
-- <span style="color: #c8956c;">▸</span> Expanding FoodLink hardware prototyping with the ESP32 SmartBox
-</div>
-</div>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 01 — HERO                                              -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<!-- [02] WORK -->
-<div style="font-family: 'SF Mono', monospace; font-size: 13px; color: #d4d4d8; line-height: 2.2; margin-top: 24px;">
-<span style="color: #c8956c; font-size: 14px; font-weight: 600;">[02]</span> <span style="color: #c8956c; font-size: 14px;">WORK</span>
-<div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #27272a;">
-<img src="./assets/projects/foodlink.svg" width="100%" alt="FoodLink" style="display: block; margin-bottom: 12px;"/>
-<img src="./assets/projects/supply-chain.svg" width="100%" alt="Supply-chain" style="display: block; margin-bottom: 12px;"/>
-<img src="./assets/projects/sehatlink.svg" width="100%" alt="SehatLink" style="display: block;"/>
-</div>
+<img src="./assets/hero/hero-banner.svg" width="700" alt="Hero" style="display: block; margin-bottom: 24px;"/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 02 — ABOUT ME                                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div style="font-family: 'SF Mono', 'Fira Code', monospace; font-size: 13px; color: #E8E4D8; line-height: 2; margin-top: 24px;">
+
+<span style="color: #A8C686; font-size: 14px; font-weight: 600;">// 02</span> <span style="color: #A8C686; font-size: 14px;">ABOUT ME</span>
+
+<div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #30352F;">
+I'm a Computer Science student at SRM Ramapuram. I enjoy building projects that mix AI, web technologies and real world problem solving. I like exploring new tools, working on ideas from scratch and learning by doing. Currently focused on AI, full stack development and building stuff that actually solves real problems.
 </div>
 
-<!-- [03] STACK -->
-<div style="font-family: 'SF Mono', monospace; font-size: 13px; color: #d4d4d8; line-height: 2.2; margin-top: 24px;">
-<span style="color: #c8956c; font-size: 14px; font-weight: 600;">[03]</span> <span style="color: #c8956c; font-size: 14px;">STACK</span>
-<div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #27272a; background: #111114; border: 1px solid #27272a; border-radius: 4px; padding: 16px 20px;">
-<span style="color: #71717a; font-size: 10px; letter-spacing: 1px; text-transform: uppercase;">Languages &amp; Frameworks</span><br/>
-<span style="display: inline-block; margin: 3px 6px 3px 0; padding: 3px 8px; background: #1a1a1e; border: 1px solid #27272a; border-radius: 3px; font-size: 12px; color: #c8956c;">Python</span>
-<span style="display: inline-block; margin: 3px 6px 3px 0; padding: 3px 8px; background: #1a1a1e; border: 1px solid #27272a; border-radius: 3px; font-size: 12px; color: #c8956c;">C</span>
-<span style="display: inline-block; margin: 3px 6px 3px 0; padding: 3px 8px; background: #1a1a1e; border: 1px solid #27272a; border-radius: 3px; font-size: 12px; color: #c8956c;">JavaScript</span>
-<span style="display: inline-block; margin: 3px 6px 3px 0; padding: 3px 8px; background: #1a1a1e; border: 1px solid #27272a; border-radius: 3px; font-size: 12px; color: #c8956c;">HTML / CSS</span>
-<span style="display: inline-block; margin: 3px 6px 3px 0; padding: 3px 8px; background: #1a1a1e; border: 1px solid #27272a; border-radius: 3px; font-size: 12px; color: #c8956c;">FastAPI</span>
-<br/><br/>
-<span style="color: #71717a; font-size: 10px; letter-spacing: 1px; text-transform: uppercase;">Hardware &amp; Data</span><br/>
-<span style="display: inline-block; margin: 3px 6px 3px 0; padding: 3px 8px; background: #1a1a1e; border: 1px solid #27272a; border-radius: 3px; font-size: 12px; color: #c8956c;">ESP32 / Arduino</span>
-<span style="display: inline-block; margin: 3px 6px 3px 0; padding: 3px 8px; background: #1a1a1e; border: 1px solid #27272a; border-radius: 3px; font-size: 12px; color: #c8956c;">MySQL</span>
-<br/><br/>
-<span style="color: #71717a; font-size: 10px; letter-spacing: 1px; text-transform: uppercase;">Platforms &amp; Tools</span><br/>
-<span style="display: inline-block; margin: 3px 6px 3px 0; padding: 3px 8px; background: #1a1a1e; border: 1px solid #27272a; border-radius: 3px; font-size: 12px; color: #c8956c;">Git / GitHub</span>
-<span style="display: inline-block; margin: 3px 6px 3px 0; padding: 3px 8px; background: #1a1a1e; border: 1px solid #27272a; border-radius: 3px; font-size: 12px; color: #c8956c;">Vercel</span>
-</div>
+<div style="margin-top: 20px; display: flex; gap: 0; flex-wrap: wrap;">
+
+<div style="flex: 1 1 200px; min-width: 200px; padding: 12px 16px; border: 1px solid #30352F; background: #0E1110; margin-right: 8px; margin-bottom: 8px;">
+<div style="font-size: 9px; color: #A8C686; letter-spacing: 2px; margin-bottom: 4px;">CSE STUDENT</div>
+<div style="font-size: 14px; color: #E8E4D8;">SRM RAMAPURAM</div>
 </div>
 
-<!-- [04] GITHUB -->
-<div style="font-family: 'SF Mono', monospace; font-size: 13px; color: #d4d4d8; line-height: 2.2; margin-top: 24px;">
-<span style="color: #c8956c; font-size: 14px; font-weight: 600;">[04]</span> <span style="color: #c8956c; font-size: 14px;">GITHUB</span>
-<div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #27272a; background: #111114; border: 1px solid #27272a; border-radius: 4px; padding: 16px 20px;">
-<p style="font-size: 12px; color: #71717a; margin: 0 0 8px 0; font-family: 'SF Mono', monospace;">Recent activity and contributions.</p>
-<p style="font-size: 12px; color: #c8956c; margin: 0; font-family: 'SF Mono', monospace;"><a href="https://github.com/kanisk-sk" style="color: #c8956c; text-decoration: none;">github.com/kanisk-sk</a></p>
-</div>
+<div style="flex: 1 1 200px; min-width: 200px; padding: 12px 16px; border: 1px solid #30352F; background: #0E1110; margin-right: 8px; margin-bottom: 8px;">
+<div style="font-size: 9px; color: #A8C686; letter-spacing: 2px; margin-bottom: 4px;">LEARNING</div>
+<div style="font-size: 14px; color: #E8E4D8;">AI + WEB DEV</div>
 </div>
 
-<!-- [05] CONNECT -->
-<div style="font-family: 'SF Mono', monospace; font-size: 13px; color: #71717a; line-height: 2.4; margin-top: 24px;">
-<span style="color: #c8956c; font-size: 14px; font-weight: 600;">[05]</span> <span style="color: #c8956c; font-size: 14px;">CONNECT</span>
-<div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #27272a;">
-<span style="color: #c8956c;">▸</span> <a href="https://github.com/kanisk-sk" style="color: #71717a; text-decoration: none;">GitHub</a><br/>
-<span style="color: #c8956c;">▸</span> <a href="[ADD YOUR LINK]" style="color: #71717a; text-decoration: none;">LinkedIn</a><br/>
-<span style="color: #c8956c;">▸</span> <a href="[ADD YOUR LINK]" style="color: #71717a; text-decoration: none;">Portfolio</a><br/>
-<span style="color: #c8956c;">▸</span> <a href="[ADD YOUR LINK]" style="color: #71717a; text-decoration: none;">Email</a>
-</div>
+<div style="flex: 1 1 200px; min-width: 200px; padding: 12px 16px; border: 1px solid #30352F; background: #0E1110; margin-right: 8px; margin-bottom: 8px;">
+<div style="font-size: 9px; color: #A8C686; letter-spacing: 2px; margin-bottom: 4px;">INTERESTS</div>
+<div style="font-size: 14px; color: #E8E4D8;">AI · SYSTEMS · UI/UX</div>
 </div>
 
-<div style="margin-top: 28px; padding-top: 16px; border-top: 1px solid #27272a; font-family: 'SF Mono', monospace; font-size: 11px; color: #27272a; letter-spacing: 1px;">
-kanisk_sk · [ADD YEAR] · self-hosted
+<div style="flex: 1 1 200px; min-width: 200px; padding: 12px 16px; border: 1px solid #30352F; background: #0E1110; margin-bottom: 8px;">
+<div style="font-size: 9px; color: #A8C686; letter-spacing: 2px; margin-bottom: 4px;">GOAL</div>
+<div style="font-size: 14px; color: #E8E4D8;">BUILD & IMPROVE</div>
+</div>
+
+</div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 03 — GITHUB ACTIVITY                                   -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div style="font-family: 'SF Mono', 'Fira Code', monospace; font-size: 13px; color: #E8E4D8; line-height: 2; margin-top: 24px;">
+
+<span style="color: #A8C686; font-size: 14px; font-weight: 600;">// 03</span> <span style="color: #A8C686; font-size: 14px;">GITHUB ACTIVITY</span>
+
+<div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #30352F; display: flex; gap: 16px; flex-wrap: wrap;">
+
+<div style="flex: 1 1 340px; min-width: 300px;">
+<img src="./assets/github/contributions-3d.svg" width="320" alt="Contribution Graph" style="display: block;"/>
+</div>
+
+<div style="flex: 0 0 220px; min-width: 200px; padding: 12px; border: 1px solid #30352F; background: #0E1110;">
+<div style="font-size: 9px; color: #A8C686; letter-spacing: 2px; margin-bottom: 8px;">CONTRIBUTION FOCUS</div>
+<img src="./assets/github/radar-chart.svg" width="200" alt="Radar Chart" style="display: block; margin: 0 auto;"/>
+</div>
+
+</div>
+
+<div style="margin-top: 16px; padding-top: 12px; border-top: 1px solid #30352F;">
+<img src="./assets/github/contribution-chart.svg" width="540" alt="Contribution Activity" style="display: block;"/>
+</div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 04 — TECH STACK                                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div style="font-family: 'SF Mono', 'Fira Code', monospace; font-size: 13px; color: #E8E4D8; line-height: 2; margin-top: 24px;">
+
+<span style="color: #A8C686; font-size: 14px; font-weight: 600;">// 04</span> <span style="color: #A8C686; font-size: 14px;">TECH STACK</span>
+
+<div style="margin-top: 8px;">
+<span style="color: #9A9A8F; font-size: 10px; letter-spacing: 1px; text-transform: uppercase;">Tools / Languages I Use</span>
+</div>
+
+<div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #30352F;">
+
+<img src="./assets/tech/tech-stack.svg" width="540" alt="Tech Stack" style="display: block;"/>
+
+</div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 05 — GITHUB STATS                                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div style="font-family: 'SF Mono', 'Fira Code', monospace; font-size: 13px; color: #E8E4D8; line-height: 2; margin-top: 24px;">
+
+<span style="color: #A8C686; font-size: 14px; font-weight: 600;">// 05</span> <span style="color: #A8C686; font-size: 14px;">GITHUB STATS</span>
+
+<div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #30352F;">
+<img src="./assets/github/stat-blocks.svg" width="540" alt="GitHub Stats" style="display: block;"/>
+</div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- PROJECTS                                               -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div style="font-family: 'SF Mono', 'Fira Code', monospace; font-size: 13px; color: #E8E4D8; line-height: 2; margin-top: 24px;">
+
+<span style="color: #A8C686; font-size: 14px; font-weight: 600;">// PROJECTS</span>
+<span style="color: #9A9A8F; font-size: 10px; letter-spacing: 1px;">SehatLink is a fork of pranav7676/SehatLink</span>
+
+<div style="margin-top: 8px; padding-top: 8px; border-top: 1px solid #30352F; display: flex; flex-direction: column; gap: 8px;">
+
+<img src="./assets/projects/foodlink.svg" width="540" alt="FoodLink" style="display: block;"/>
+<img src="./assets/projects/supply-chain.svg" width="540" alt="Supply-chain" style="display: block;"/>
+<img src="./assets/projects/sehatlink.svg" width="540" alt="SehatLink (Fork)" style="display: block;"/>
+
+</div>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 06 — FIND ME                                           -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div style="font-family: 'SF Mono', 'Fira Code', monospace; font-size: 13px; color: #E8E4D8; line-height: 2; margin-top: 24px;">
+
+<span style="color: #A8C686; font-size: 14px; font-weight: 600;">// 06</span> <span style="color: #A8C686; font-size: 14px;">FIND ME</span>
+
+<div style="margin-top: 8px; padding-top: 8px; border-top: 1px solid #30352F;">
+Let's connect and build something cool together.
+</div>
+
+<div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #30352F; display: flex; gap: 8px; flex-wrap: wrap;">
+
+<div style="flex: 1 1 160px; min-width: 160px; padding: 10px 14px; border: 1px solid #30352F; background: #0E1110;">
+<span style="color: #A8C686;">Instagram →</span>
+<div style="font-size: 11px; color: #9A9A8F; margin-top: 2px;">ADD LINK</div>
+</div>
+
+<div style="flex: 1 1 160px; min-width: 160px; padding: 10px 14px; border: 1px solid #30352F; background: #0E1110;">
+<span style="color: #A8C686;">LinkedIn →</span>
+<div style="font-size: 11px; color: #9A9A8F; margin-top: 2px;">ADD LINK</div>
+</div>
+
+<div style="flex: 1 1 160px; min-width: 160px; padding: 10px 14px; border: 1px solid #30352F; background: #0E1110;">
+<span style="color: #A8C686;">Email →</span>
+<div style="font-size: 11px; color: #9A9A8F; margin-top: 2px;">ADD LINK</div>
+</div>
+
+</div>
+
+<div style="margin-top: 24px; padding-top: 16px; border-top: 1px solid #30352F;">
+<span style="color: #9A9A8F; font-size: 11px;">Building, learning and exploring,<br/>one project at a time.</span>
+<div style="margin-top: 8px; font-size: 11px; color: #A8C686;">— Kanisk S K</div>
+</div>
+
+</div>
+
+</div>
+
+<div style="margin-top: 28px; padding-top: 16px; border-top: 1px solid #30352F; font-family: 'SF Mono', monospace; font-size: 10px; color: #30352F; letter-spacing: 1px; text-align: center;">
+kanisk_sk · self-hosted
 </div>

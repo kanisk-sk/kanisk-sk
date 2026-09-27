@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="80" viewBox="0 0 540 80" fill="none">
+  <rect width="540" height="80" rx="8" fill="#0B0E0D" stroke="#30352F" stroke-width="1"/>
+  <rect x="0" y="0" width="540" height="3" fill="#A8C686" opacity="0.5"/>
+  <rect x="20" y="12" width="100" height="1" fill="#30352F"/>
+  <text x="20" y="32" font-family="'SF Mono', monospace" font-size="10" fill="#A8C686" letter-spacing="2">LANGUAGES</text>
+  <rect x="20" y="40" width="100" height="1" fill="#30352F"/>
+  <text x="20" y="58" font-family="'SF Mono', monospace" font-size="11" fill="#E8E4D8">Python</text>
+  <text x="65" y="58" font-family="'SF Mono', monospace" font-size="11" fill="#E8E4D8">C</text>
+  <text x="95" y="58" font-family="'SF Mono', monospace" font-size="11" fill="#E8E4D8">JavaScript</text>
+  <text x="155" y="58" font-family="'SF Mono', monospace" font-size="11" fill="#E8E4D8">TypeScript</text>
+  <text x="210" y="58" font-family="'SF Mono', monospace" font-size="11" fill="#E8E4D8">HTML</text>
+  <text x="250" y="58" font-family="'SF Mono', monospace" font-size="11" fill="#E8E4D8">CSS</text>
+  <rect x="290" y="12" width="100" height="1" fill="#30352F"/>
+  <text x="290" y="32" font-family="'SF Mono', monospace" font-size="10" fill="#A8C686" letter-spacing="2">FRONTEND</text>
+  <rect x="290" y="40" width="100" height="1" fill="#30352F"/>
+  <text x="290" y="58" font-family="'SF Mono', monospace" font-size="11" fill="#E8E4D8">React</text>
+  <text x="330" y="58" font-family="'SF Mono', monospace" font-size="11" fill="#E8E4D8">Next.js</text>
+  <rect x="380" y="12" width="100" height="1" fill="#30352F"/>
+  <text x="380" y="32" font-family="'SF Mono', monospace" font-size="10" fill="#A8C686" letter-spacing="2">BACKEND</text>
+  <rect x="380" y="40" width="100" height="1" fill="#30352F"/>
+  <text x="380" y="58" font-family="'SF Mono', monospace" font-size="11" fill="#E8E4D8">FastAPI</text>
+  <text x="430" y="58" font-family="'SF Mono', monospace" font-size="11" fill="#E8E4D8">Node.js</text>
+  <text x="475" y="58" font-family="'SF Mono', monospace" font-size="11" fill="#E8E4D8">MySQL</text>
+  <rect x="20" y="68" width="500" height="1" fill="#30352F"/>
+  <text x="20" y="58" font-family="'SF Mono', monospace" font-size="11" fill="#E8E4D8">MongoDB</text>
+</svg>

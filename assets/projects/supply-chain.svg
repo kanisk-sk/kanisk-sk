@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" fill="none">
-  <rect width="600" height="190" rx="6" fill="#09090b" stroke="#27272a" stroke-width="1"/>
-  <rect x="0" y="0" width="600" height="3" fill="#c8956c" opacity="0.6"/>
-  <circle cx="18" cy="18" r="4" fill="#c8956c" opacity="0.9"/>
-  <circle cx="34" cy="18" r="4" fill="#71717a" opacity="0.7"/>
-  <circle cx="50" cy="18" r="4" fill="#27272a" stroke="#71717a" stroke-width="0.5"/>
-  <rect x="18" y="32" width="120" height="1" fill="#27272a"/>
-  <text x="72" y="22" font-family="'SF Mono', monospace" font-size="11" fill="#c8956c">⛓ LOGISTICS</text>
-  <text x="72" y="68" font-family="'SF Mono', monospace" font-size="22" fill="#d4d4d8" font-weight="bold">Supply-chain</text>
-  <text x="72" y="92" font-family="'SF Mono', monospace" font-size="12" fill="#71717a">Centralized logistics management system</text>
-  <text x="72" y="120" font-family="'SF Mono', monospace" font-size="11" fill="#c8956c">Python · FastAPI · MySQL</text>
-  <rect x="72" y="132" width="160" height="18" rx="3" fill="#1a1a1e" stroke="#27272a" stroke-width="0.5"/>
-  <text x="82" y="145" font-family="'SF Mono', monospace" font-size="10" fill="#71717a">github.com/kanisk-sk/Supply-chain</text>
+  <rect width="600" height="190" rx="6" fill="#0B0E0D" stroke="#30352F" stroke-width="1"/>
+  <rect x="0" y="0" width="600" height="3" fill="#A8C686" opacity="0.6"/>
+  <circle cx="18" cy="18" r="4" fill="#A8C686" opacity="0.9"/>
+  <circle cx="34" cy="18" r="4" fill="#9A9A8F" opacity="0.7"/>
+  <circle cx="50" cy="18" r="4" fill="#0B0E0D" stroke="#9A9A8F" stroke-width="0.5"/>
+  <rect x="18" y="32" width="120" height="1" fill="#30352F"/>
+  <text x="72" y="22" font-family="'SF Mono', monospace" font-size="11" fill="#A8C686">LOGISTICS</text>
+  <text x="72" y="68" font-family="'SF Mono', monospace" font-size="22" fill="#E8E4D8" font-weight="bold">Supply-chain</text>
+  <text x="72" y="92" font-family="'SF Mono', monospace" font-size="12" fill="#9A9A8F">Full-stack supply chain tracking &amp; analytics platform</text>
+  <text x="72" y="120" font-family="'SF Mono', monospace" font-size="11" fill="#A8C686">Python · FastAPI · MySQL</text>
+  <rect x="72" y="135" width="160" height="18" rx="3" fill="#111514" stroke="#30352F" stroke-width="0.5"/>
+  <text x="82" y="148" font-family="'SF Mono', monospace" font-size="10" fill="#9A9A8F">github.com/kanisk-sk/Supply-chain</text>
 </svg>
