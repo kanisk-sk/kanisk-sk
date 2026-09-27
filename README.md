@@ -85,18 +85,53 @@ Fork of **pranav7676/SehatLink**.
 
 ### 📊 GitHub Stats
 
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanisk-sk&theme=github_dark" height="180" />
+### 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanisk-sk&theme=github_dark" height="180" />
-</p>
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/github/followers/kanisk-sk?label=followers&style=flat-square&color=black" />
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kanisk-sk&label=public%20repos&query=public_repos&style=flat-square&color=black" />
-</p>
+<td align="center" width="33%">
 
+<h1>81</h1>
+
+<b>Total Contributions</b>
+
+<br/>
+
+May 6, 2025 - Present
+
+</td>
+
+<td align="center" width="33%">
+
+<h1>🔥 0</h1>
+
+<b>Current Streak</b>
+
+<br/>
+
+Sep 26
+
+</td>
+
+<td align="center" width="33%">
+
+<h1>6</h1>
+
+<b>Longest Streak</b>
+
+<br/>
+
+Sep 16 - Sep 21
+
+</td>
+
+</tr>
+</table>
+
+</div>
 ---
 
 ### 📈 GitHub Activity
