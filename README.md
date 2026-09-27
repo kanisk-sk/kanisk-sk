@@ -1,10 +1,19 @@
 <h1 align="center">Hi, I'm Kanisk 👋</h1>
 
-<p align="center">B.Tech CSE Student · SRM Ramapuram · Chennai, India</p>
+<p align="center">
+B.Tech CSE Student · SRM Ramapuram · Chennai, India
+</p>
 
-<p align="center">I build software and, sometimes, the hardware underneath it — from an idea to something that actually runs.</p>
+<p align="center">
+I build software and, sometimes, the hardware underneath it — from an idea to something that actually runs.
+</p>
 
-<p align="center"><code>Full-Stack Development</code> · <code>AI</code> · <code>Systems</code> · <code>UI/UX</code></p>
+<p align="center">
+<code>Full-Stack Development</code> ·
+<code>AI</code> ·
+<code>Systems</code> ·
+<code>UI/UX</code>
+</p>
 
 ---
 
@@ -40,17 +49,31 @@ Currently learning **AI Engineering** and **Full Stack Development**, targeting 
 
 ---
 
-### 📈 GitHub Activity
+### 🚀 My Projects
 
-<div align="center">
+**🍲 FoodLink**
 
-<img
-  src="./profile-3d-contrib/profile-night-green.svg"
-  width="78%"
-  alt="Kanisk's 3D GitHub Activity"
-/>
+Smart surplus-food redistribution system with IoT telemetry and digital food passport.
 
-</div>
+[View Repository →](https://github.com/kanisk-sk/FoodLink)
+
+---
+
+**📦 Supply-chain**
+
+Supply Chain Tracking & Analytics project with separate backend and frontend components.
+
+[View Repository →](https://github.com/kanisk-sk/Supply-chain)
+
+---
+
+**🏥 SehatLink**
+
+Offline Telemedicine & AI Health Assistant for Rural India.
+
+Fork of **pranav7676/SehatLink**.
+
+[View Repository →](https://github.com/kanisk-sk/SehatLink)
 
 ---
 
@@ -58,13 +81,25 @@ Currently learning **AI Engineering** and **Full Stack Development**, targeting 
 
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanisk-sk&theme=github_dark" height="180" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanisk-sk&theme=github_dark" height="180" />
 </p>
 
 <p>
 <img src="https://img.shields.io/github/followers/kanisk-sk?label=followers&style=flat-square&color=black" />
+
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kanisk-sk&label=public%20repos&query=public_repos&style=flat-square&color=black" />
 </p>
+
+---
+
+### 📈 GitHub Activity
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="78%" alt="Kanisk's 3D GitHub Activity" />
+
+</div>
 
 ---
 
@@ -73,9 +108,15 @@ Currently learning **AI Engineering** and **Full Stack Development**, targeting 
 Let's connect and build something cool together.
 
 <p>
-<a href="https://www.instagram.com/kanisk.still/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kanisk-sk/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kaniksk14@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kanisk-sk/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kaniksk14@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
-<p><i>Building, learning and exploring, one project at a time.</i></p>
+<p>
+<i>Building, learning and exploring, one project at a time.</i>
+</p>
