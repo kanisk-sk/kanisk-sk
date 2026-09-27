@@ -85,8 +85,6 @@ Fork of **pranav7676/SehatLink**.
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <div align="center">
 
 <table>
