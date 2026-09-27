@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/Untitled%20design.png"
+    src="./assets/banner.png"
     width="100%"
     alt="Kanisk SK"
   />
