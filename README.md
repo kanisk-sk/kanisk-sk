@@ -34,36 +34,45 @@
 
 ---
 
-<h2>🧠 About Me</h2>
-
 <table width="100%">
 <tr>
 
-<td width="65%" valign="top">
+<td width="58%" valign="middle">
 
-I’m **Kanisk SK**, a CSE student at **SRM Institute of Science and Technology**, building things across **AI, full-stack development, and backend systems**.
+<h1>
+  Hi, I'm <span style="color:#9BE564;">Kanisk</span> 👋
+</h1>
 
-I like taking ideas from a rough concept to something that actually works — whether it’s an AI assistant, a supply-chain platform, or a hardware prototype.
+<p>
+  <b>B.Tech CSE Student · SRM Ramapuram · Chennai, India</b>
+</p>
 
-Currently exploring **Python, JavaScript, AI/ML, backend engineering, and system design**.
+<p>
+  I build software and, sometimes, the hardware underneath it —
+  from an idea to something that actually runs.
+  Currently exploring AI, full-stack development,
+  backend systems and system design.
+</p>
+
+<p>
+  <code>Full-Stack Development</code>
+  &nbsp;
+  <code>AI</code>
+  &nbsp;
+  <code>Systems</code>
+  &nbsp;
+  <code>UI/UX</code>
+</p>
 
 </td>
 
-<td width="35%" valign="top">
+<td width="42%" align="center">
 
-<pre>
-IDEAS
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-SHIP
-</pre>
+<img
+  src="./assets/gitvisual.png"
+  width="100%"
+  alt="Ideas, code, systems, people, impact"
+/>
 
 </td>
 
