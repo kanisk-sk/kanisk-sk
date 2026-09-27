@@ -53,7 +53,7 @@ Currently learning AI Engineering and Full Stack Development, targeting a Softwa
 ## GitHub Activity
 
 <div align="center">
-<img src="./profile-3d-contrib/profile-green.svg" width="100%" alt="Kanisk's 3D GitHub contribution graph" />
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Kanisk's 3D GitHub contribution graph" />
 </div>
 
 <br>
@@ -62,8 +62,8 @@ Currently learning AI Engineering and Full Stack Development, targeting a Softwa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kanisk-sk&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanisk-sk&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kanisk-sk&show_icons=true&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanisk-sk&layout=compact&theme=dark&hide_border=true" width="35%" />
 
 </div>
 
