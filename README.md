@@ -54,12 +54,14 @@
   backend systems and system design.
 </p>
 
-<p align="center">
-  <img
-    src="./assets/about.png"
-    width="100%"
-    alt="Kanisk — About Me"
-  />
+<p>
+  <code>Full-Stack Development</code>
+  &nbsp;
+  <code>AI</code>
+  &nbsp;
+  <code>Systems</code>
+  &nbsp;
+  <code>UI/UX</code>
 </p>
 
 <td width="42%" align="center">
