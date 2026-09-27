@@ -25,14 +25,11 @@ I build software and, sometimes, the hardware underneath it — from an idea to 
 
 ### 🧠 About Me
 
-I'm a Computer Science student who likes finishing what I start.
+I’m **Kanisk SK**, a CSE student at SRM Institute of Science and Technology, building things across **AI, full-stack development, and backend systems**.
 
-Most of what I build sits between AI, full-stack web development, and systems — usually because I wanted to solve a real, specific problem, not because it looked good on paper.
+I like taking ideas from a rough concept to something that actually works — whether it’s an AI assistant, a supply-chain platform, or a hardware prototype.
 
-Co-founder of **PLUTO**, a small freelance web development studio.
-
-Currently learning **AI Engineering** and **Full Stack Development**, targeting a Software Engineering internship by December 2026.
-
+Currently exploring **Python, JavaScript, AI/ML, backend engineering, and system design**.
 ---
 
 ### 🧰 Tech Stack
