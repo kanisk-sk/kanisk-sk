@@ -15,6 +15,12 @@ I build software and, sometimes, the hardware underneath it — from an idea to 
 <code>UI/UX</code>
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=A8C686&center=true&vCenter=true&width=600&lines=Building+Software+That+Actually+Runs;Learning+AI+Engineering;Building+Full-Stack+Projects;Working+With+Hardware+%26+IoT;Always+Learning+Something+New"
+    alt="Currently building and learning"
+  />
+</p>
 ---
 
 ### 🧠 About Me
