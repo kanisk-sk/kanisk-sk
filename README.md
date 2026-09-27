@@ -321,36 +321,30 @@ Experimenting with ESP32, sensors, telemetry and software dashboards.
 <h2>🤝 Find Me</h2>
 
 <p>
-Let's connect and build something cool together.
+  Let's connect and build something cool together.
 </p>
 
 <p>
-
-<a href="https://www.linkedin.com/in/kanisk-sk/">
-<img
-  src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
-</a>
-
-&nbsp;
-
-<a href="mailto:kaniksk14@gmail.com">
-<img
-  src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"
-  alt="Email"
-/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/kanisk-sk">
-<img
-  src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"
-  alt="GitHub"
-/>
-</a>
-
+  <a href="https://www.linkedin.com/in/kanisk-sk/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:kaniksk14@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kanisk-sk">
+    <img
+      src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 </p>
 
 <br>
