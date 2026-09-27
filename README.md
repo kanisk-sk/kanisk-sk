@@ -1,31 +1,71 @@
-<div align="center">
+<h1 align="center">Hi, I'm Kanisk 👋</h1>
 
-# Kanisk S K
+<p align="center">B.Tech CSE Student · SRM Ramapuram · Chennai, India</p>
 
-**B.Tech CSE Student · SRM Ramapuram**
-Chennai, India
+<p align="center">I build software and, sometimes, the hardware underneath it — from an idea to something that actually runs.</p>
 
-</div>
+<p align="center"><code>Full-Stack Development</code> · <code>AI</code> · <code>Systems</code> · <code>UI/UX</code></p>
 
-<br>
+---
 
-## About Me
+### 🧠 About Me
 
-I'm a Computer Science student who likes finishing what I start. Most of what I build sits somewhere between AI, full-stack web development, and systems — usually because I wanted to solve a real, specific problem, not because it looked good on paper.
+I'm a Computer Science student who likes finishing what I start.
+
+Most of what I build sits between AI, full-stack web development, and systems — usually because I wanted to solve a real, specific problem, not because it looked good on paper.
 
 Co-founder of **PLUTO**, a small freelance web development studio.
 
-Currently learning AI Engineering and Full Stack Development, targeting a Software Engineering internship by December 2026, and building toward a FAANG-level SWE role after that.
+Currently learning **AI Engineering** and **Full Stack Development**, targeting a Software Engineering internship by December 2026.
 
-<br>
+---
 
-## Tech Stack
+### 🧰 Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,c,js,ts&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+
+**Backend / Tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,git,docker&theme=dark" />
+
+**Others**
+
+<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" />
+
+---
+
+### 📈 GitHub Activity
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Kanisk's live 3D GitHub contribution graph" />
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=kanisk-sk&show_icons=true&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanisk-sk&layout=compact&theme=dark&hide_border=true" width="35%" />
+</p>
+
+---
+
+### 🤝 Find Me
+
+Let's connect and build something cool together.
+
+<p>
+<a href="https://www.instagram.com/kanisk.still/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kanisk-sk/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kaniksk14@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p><i>Building, learning and exploring, one project at a time.</i></p>![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 
 **Frontend**
