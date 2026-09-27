@@ -6,8 +6,6 @@
   />
 </p>
 
-<p align="center">
-  B.Tech CSE Student · SRM Ramapuram · Chennai, India
 </p>
 <h1 align="center">Hi, I'm Kanisk 👋</h1>
 
