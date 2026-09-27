@@ -1,3 +1,16 @@
+<p align="center">
+  <img
+    src="./assets/Untitled%20design.png"
+    width="100%"
+    alt="Kanisk SK"
+  />
+</p>
+
+<h1 align="center">Hi, I'm Kanisk 👋</h1>
+
+<p align="center">
+  B.Tech CSE Student · SRM Ramapuram · Chennai, India
+</p>
 <h1 align="center">Hi, I'm Kanisk 👋</h1>
 
 <p align="center">
