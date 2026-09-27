@@ -110,10 +110,13 @@ Currently exploring **Python, JavaScript, AI/ML, backend engineering, and system
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="78%" alt="Kanisk's 3D GitHub Activity" />
+<img
+  src="./profile-3d-contrib/profile-night-green.svg"
+  width="100%"
+  alt="3D GitHub contribution activity"
+/>
 
 </div>
-
 ---
 
 ### 🤝 Find Me
