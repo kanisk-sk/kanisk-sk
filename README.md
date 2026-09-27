@@ -42,7 +42,7 @@ Currently learning **AI Engineering** and **Full Stack Development**, targeting 
 
 ### 📈 GitHub Activity
 
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="Kanisk's live 3D GitHub contribution graph" />
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Kanisk's live 3D GitHub contribution graph" />
 
 ---
 
